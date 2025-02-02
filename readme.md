@@ -6,7 +6,7 @@ Music genre classification is a task that categorizes audio samples into predefi
 
 ### 📁 Dataset
 
-The project uses the GTZAN Dataset from [Kaggle](https://kaggle.com), which includes:
+The project uses the GTZAN Dataset from [Kaggle](https://kaggle.com), which includes:-
 
 + Genres: Blues, Classical, Country, Disco, Hip-hop, Jazz, Metal, Pop, Reggae, and Rock.
 + Audio files: 1,000 .wav files (100 files per genre).
@@ -24,6 +24,6 @@ Model performance is evaluated based on accuracy and confusion matrix.
 After training and testing, the KNN model achieves an accuracy of approximately X% (adjust based on your results) on the GTZAN dataset. The confusion matrix reveals performance across different genres, highlighting any specific challenges in classification.
 
 ### 🤝 Acknowledgments
-This project is based on the GTZAN Dataset hosted on Kaggle. Special thanks to the contributors for making this dataset available for research and experimentation.
+This project is based on the GTZAN Dataset hosted on Kaggle, Special thanks to the contributors for making this dataset available for research and experimentation.
 
 
