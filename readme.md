@@ -4,9 +4,9 @@ This project uses K-Nearest Neighbors (KNN) to classify music genres, leveraging
 ### Project Overview
 Music genre classification is a task that categorizes audio samples into predefined genres. This project uses KNN, a simple yet powerful instance-based learning algorithm, to classify tracks based on feature vectors derived from audio data.
 
-### 📁 Dataset
+### 📁 Dataset.
 
-The project uses the GTZAN Dataset from [Kaggle](https://kaggle.com), which includes:
+The project uses the GTZAN Dataset from [Kaggle](https://kaggle.com), which includes-
 
 + Genres: Blues, Classical, Country, Disco, Hip-hop, Jazz, Metal, Pop, Reggae, and Rock.
 + Audio files: 1,000 .wav files (100 files per genre).
@@ -16,7 +16,7 @@ The project uses the GTZAN Dataset from [Kaggle](https://kaggle.com), which incl
 Link to the dataset on Kaggle : [GTZAN music genre classification dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 
 ### 🎛️ Features Extraction
-Using the Librosa library, we extract several key features from each audio file:
+Using the Librosa library, we extract several key features from each audio file.
 
 Model performance is evaluated based on accuracy and confusion matrix.
 
