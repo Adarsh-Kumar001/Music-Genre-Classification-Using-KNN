@@ -24,6 +24,6 @@ Model performance is evaluated based on accuracy and confusion matrix.
 After training and testing, the KNN model achieves an accuracy of approximately X% (adjust based on your results) on the GTZAN dataset. The confusion matrix reveals performance across different genres, highlighting any specific challenges in classification.
 
 ### 🤝 Acknowledgments
-This project is based on the GTZAN Dataset hosted on Kaggle, Special thanks to the contributors for making this dataset available for research and experimentation.
+This project is based on the GTZAN Dataset hosted on Kaggle, Special thanks to the contributors for making this dataset available for research and experimentation..
 
 
